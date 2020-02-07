@@ -26,7 +26,7 @@ const Profile = () => {
 const Navigation = () => {
   return (
     <div>
-      <Link to="/todos">Todo List</Link>
+      <Link to="/todos">Todo---List</Link>
       <Link to="/profile">Profile</Link>
     </div>
   );
